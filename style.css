@@ -1,4 +1,5 @@
-            body{
+                  body{
+                font-family: "roboto", sans-serif; 
                 margin: 0;
                 height: 100vh;
                 display: flex;
@@ -19,21 +20,18 @@
 
             p{
                 font-size: xx-large;
-                font-weight: bold;
-                
+                font-weight: bold;  
             }
 
             h1{
                 color: rgb(76, 10, 138);   
-                font-style: "poppins"; 
                 font-weight: bolder;
                 font-size: x-large;
             }
     
             button{
                 background-color:aquamarine;
-                color: black;    
-                font-style:'Poppins'; 
+                color: black;     
                 padding: 15px;
                 font-size: large;
                 border-radius: 10px;
